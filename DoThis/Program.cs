@@ -11,10 +11,6 @@ namespace WinTail
         static void Main(string[] args)
         {
             // initialize MyActorSystem
-            // YOU NEED TO FILL IN HERE
-            PrintInstructions();
-
-            // time to make your first actors!
             MyActorSystem = ActorSystem.Create("MyActorSystem");
             var consoleWriterActor = MyActorSystem.ActorOf(Props.Create(() =>
             new ConsoleWriterActor()));

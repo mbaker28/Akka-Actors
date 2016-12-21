@@ -10,3 +10,6 @@ C:\Users\Matthew\Documents\GitHub\akka-bootcamp\src\Unit-1\DoThis\bin\Debug\Syst
 C:\Users\Matthew\Documents\GitHub\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.csprojResolveAssemblyReference.cache
 C:\Users\Matthew\Documents\GitHub\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.exe
 C:\Users\Matthew\Documents\GitHub\akka-bootcamp\src\Unit-1\DoThis\obj\Debug\WinTail.pdb
+C:\Users\Matthew\Documents\GitHub\Akka-Actors\DoThis\bin\Debug\WinTail.exe.config
+C:\Users\Matthew\Documents\GitHub\Akka-Actors\DoThis\obj\Debug\WinTail.exe
+C:\Users\Matthew\Documents\GitHub\Akka-Actors\DoThis\obj\Debug\WinTail.pdb
